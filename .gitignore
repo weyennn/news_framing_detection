@@ -1,6 +1,8 @@
 # Python
 __pycache__/
 
+# data
+berita.json
 
 # Virtual environments
 .venv_berita/
