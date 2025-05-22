@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+
+
+# Virtual environments
+.venv_berita/
+
+
+# VSCode & IDE
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Output & logs
+*.log
+*.out
+*.tmp
+
+# API keys or config (if not public)
+settings.yaml
+
+# Models
+models/
+*.model
+*.bin
+
+# Other artifacts
+__output__/
